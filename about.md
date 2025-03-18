@@ -2,25 +2,34 @@
 lang-ref: about
 title: About
 # description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/placeholders/bdj-hp-about.jpg
+background: /assets/images/placeholders/mk-hp-about.jpg
 imageLicense: |
-  Yu H, Zhang C, Lu Q, Lin Y (2024) A survey of Hersilia spiders (Araneae, Hersiliidae) from Xishuangbanna, Yunnan Province, China. Biodiversity Data Journal 12: e142805. [https://doi.org/10.3897/BDJ.12.e142805](https://doi.org/10.3897/BDJ.12.e142805)
+  ""
 height: 70vh
 ---
 
-This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [Biodiversity Data Journal](https://bdj.pensoft.net/).
+This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [MycoKeys](https://mycokeys.pensoft.net/).
 
-**Biodiversity Data Journal (BDJ)** is a community peer-reviewed, open access, comprehensive online platform, designed to accelerate publishing, dissemination and sharing of biodiversity-related data of any kind. All structural elements of the articles – text, morphological descriptions, occurrences, data tables etc. – will be treated and stored as data, in accordance with the Data [Publishing Policies and Guidelines of Pensoft Publishers](https://doi.org/10.3897/rio.3.e12431).
+**MycoKeys** is a peer-reviewed, open-access, online and printed, rapidly published and disseminated journal launched to accelerate research and free information exchange in taxonomy, phylogeny, biogeography, evolution and ecology of the monophyletic kingdom Fungi (including lichens). The journal will consider for publication manuscripts on any taxon of any geological age from any part of the world with no limit to manuscript size.
 
-The journal will publish papers in biodiversity science containing taxonomic, floristic/faunistic, morphological, genomic, phylogenetic, ecological or environmental data on any taxon of any geological era from any part of the world with no lower or upper limit to manuscript size. For example:
+**MycoKeys** applies the latest trends and methodologies in scholarly publishing and preservation of digital materials to meet the highest possible standards of the cybertaxonomy era.
 
-* single taxon treatments and nomenclatural acts (e.g., new taxa, new taxon names, new synonyms, changes in taxonomic status, re-descriptions, etc.);
-* data papers describing biodiversity-related databases, including ecological and environmental data;
-* sampling reports, local observations or occasional inventories, if these contain novel data;
-* local or regional checklists and inventories;
-* habitat-based checklists and inventories;
-* ecological and biological observations of species and  communities;
-* any kind of identification keys, from conventional dichotomous to multi-access interactive online keys;
-* descriptions of biodiversity-related software tools.
-  
-For more information, you may look at the Editorial [Beyond dead trees: integrating the scientific process in the Biodiversity Data Journal](https://bdj.pensoft.net/articles.php?id=995) and press release [The Biodiversity Data Journal: Readable by humans and machines](http://www.eurekalert.org/pub_releases/2013-09/pp-tbd091613.php).
+**MycoKeys** will consider for publication manuscripts on the following topics:
+
+* descriptions of new taxa (manuscripts containing only SINGLE species descriptions will NOT be considered for publication unless they represent exceptional cases of a high scientific value or are part of a re-visionary work of a higher taxon), if they are accompanied with proper diagnoses and/or keys to distinguish them from close relatives or similar taxa, and if DNA sequence data are deposited in Genbank prior to publication. All new taxa need to be registered at Mycobank and the registration numbers indicated in the manuscript. New taxa should ideally be described in connection with a phylogenetic analysis or evidence that the barcode gene (ITS) is unique for the new taxon.
+* taxonomic revisions of extant (or ''recent'') and fossil fungal groups
+* checklists and catalogues
+* phylogenetic and evolutionary analyses, if alignments are deposited in TreeBase (with accession number listed in the text).
+* papers in descriptive and/or historical biogeography
+* methodology papers, including description of new software, if released an open source license and released as supplementary material to the article.
+* data mining and literature surveys
+* monographs, conspecti, atlases
+* primer notes
+* "Points of View" commentaries
+* collections of papers, Festschrift volumes, conference proceedings
+* data papers (datasets published as supplementary files and through the GBIF or Barcode of Life infrastructures
+* Extensive overviews on a taxon in a country or larger region are welcome. Short mycological contributions may be considered if they are based on significant or unexpected discoveries. Regular contributions may eventually be published in special issues devoted to a region/country.
+
+The journal is published in both, online and printed version. Since January 2012, each article is published online individually as soon as approved by the editors and bears its own publication date. The paper version is printed out once a whole issue is completed. This change in the publication model is following the amendments in the International Code of Nomenclature for algae, fungi, and plants accepted at the International congress of botany, Melbourne, July 2011.
+
+ISBN numbers will be assigned to large monographic papers (i.e., major revisions of taxa, min 100 pp), collections of papers, Festschrift volumes, atlases, checklists, conspecti.

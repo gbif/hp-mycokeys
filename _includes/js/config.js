@@ -4,7 +4,7 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
   }
 });
 
-const publisherKey = '750a8724-fa66-4c27-b645-bd58ac5ee010';
+const publisherKey = 'b0e7edd4-d8b5-4b1c-bb5f-f6484e16c21c';
 
 var siteConfig = {
   routes: {
@@ -34,7 +34,7 @@ var siteConfig = {
     // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
     // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE. 
     rootPredicate: { type: 'equals', key: 'publishingOrg', value: publisherKey },
-    occurrenceSearchTabs: ['MAP', 'GALLERY', 'TABLE', 'DATASETS', 'CLUSTERS', 'DASHBOARD'] // what tabs should be shown
+    occurrenceSearchTabs: ['MAP', 'TABLE', 'DATASETS', 'CLUSTERS', 'DASHBOARD'] // what tabs should be shown 'GALLERY',
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
   literature: {
