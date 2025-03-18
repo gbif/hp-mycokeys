@@ -2,13 +2,13 @@
 lang-ref: about
 title: About
 # description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/placeholders/mk-hp-about.jpg
+background: /assets/images/placeholders/mk-hp-about1.jpg
 imageLicense: |
-  "Zhang Y, Yin Y, Wang L, Printzen C, Wang L, Wang X (2024) Two new species of _Rhizoplaca_ (Lecanoraceae) from Southwest China. MycoKeys 101: 233-248. [https://doi.org/10.3897/mycokeys.101.115678](https://doi.org/10.3897/mycokeys.101.115678)"
+  "Knudsen K, Cho-Ah-Ying J, Kocourková J, Hodková E, Malíček J, Wang Y (2025) The diversity of Acarosporaceae (Acarosporales, Lecanoromycetes) in California. MycoKeys 112: 183-210. [https://doi.org/10.3897/mycokeys.112.138580](https://doi.org/10.3897/mycokeys.112.138580)"
 height: 70vh
 ---
 
-This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [MycoKeys](https://mycokeys.pensoft.net/).
+This is а GBIF Hosted Portal, displayiGI ng data extracted or associated with articles published in [MycoKeys](https://mycokeys.pensoft.net/).
 
 **MycoKeys** is a peer-reviewed, open-access, online and printed, rapidly published and disseminated journal launched to accelerate research and free information exchange in taxonomy, phylogeny, biogeography, evolution and ecology of the monophyletic kingdom Fungi (including lichens). The journal will consider for publication manuscripts on any taxon of any geological age from any part of the world with no limit to manuscript size.
 
