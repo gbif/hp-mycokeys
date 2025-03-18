@@ -4,7 +4,7 @@ title: About
 # description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/placeholders/mk-hp-about.jpg
 imageLicense: |
-  ""
+  "Zhang Y, Yin Y, Wang L, Printzen C, Wang L, Wang X (2024) Two new species of _Rhizoplaca_ (Lecanoraceae) from Southwest China. MycoKeys 101: 233-248. [https://doi.org/10.3897/mycokeys.101.115678](https://doi.org/10.3897/mycokeys.101.115678)"
 height: 70vh
 ---
 

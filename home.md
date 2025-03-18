@@ -5,7 +5,7 @@ preTitle: Hosted Portal
 title: MycoKeys
 description: Browse data on GBIF associated with publications in MycoKeys
 background: /assets/images/placeholders/mk-hp-cover.jpg
-imageLicense: ""
+imageLicense: "Yan J, Xiong L, Yang L-X, He Z-M, Zhang P, Liao K (2025) Morphological and multi-locus phylogenetic analyses reveal three new branched species of _Clavaria_ (Clavariaceae, Agaricales) from China. MycoKeys 115: 137-153. [https://doi.org/10.3897/mycokeys.115.145774](https://doi.org/10.3897/mycokeys.115.145774)"
 height: 75vh
 cta:
   - text: Datasets
